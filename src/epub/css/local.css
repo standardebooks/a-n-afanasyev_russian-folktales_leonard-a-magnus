@@ -1,2 +1,15 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+/* Glossary CSS */
+dl{
+	margin: 1em 0;
+}
+
+dd{
+	margin-left: 40px;
+}
+
+dd + dt{
+	margin-top: 1em;
+}

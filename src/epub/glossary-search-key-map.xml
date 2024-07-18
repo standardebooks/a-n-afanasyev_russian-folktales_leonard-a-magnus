@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/glossary.xhtml#aspen">
+		<match value="aspen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#baba-yaga">
+		<match value="bába yagá"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#babushka">
+		<match value="bábushka"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#barkhat">
+		<match value="bárkhat"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#batyushka">
+		<match value="bátyushka"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#birds'-milk">
+		<match value="birds’ milk"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#boyars">
+		<match value="boyárs">
+			<value value="boyár"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#boyarynyi">
+		<match value="boyárynyi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chudo-yuda">
+		<match value="chúdo-yúda"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dyadka">
+		<match value="dyádka"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#egorushko-zalyot">
+		<match value="egórushko zalyót"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fata">
+		<match value="fatá"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gusli">
+		<match value="gúsli"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ivashko-zapechnik">
+		<match value="iváshko zapéchnik"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ivashechko">
+		<match value="iváshechko">
+			<value value="iváshechko’s"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ivashko">
+		<match value="iváshko"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#izba">
+		<match value="izbá"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kaftan">
+		<match value="kaftán"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#khvalynsk">
+		<match value="khvalýnsk"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#korolevich">
+		<match value="Korolévich">
+			<value valur="korolévichi"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#korolevna">
+		<match value="korolévna"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ksalavy">
+		<match value="ksálavy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mikhailo-ivanovich">
+		<match value="mikháilo ivánovich"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#misha-kosolapy">
+		<match value="mísha kosolápy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#morevna">
+		<match value="morévna"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nikita">
+		<match value="nikíta"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pope">
+		<match value="Pope">
+			<value value="pope’s"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pud">
+		<match value="pud">
+			<value valur="puds"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sarafan">
+		<match value="sarafán">
+			<value value="sarafáns"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sazhen">
+		<match value="sazhén">
+			<value value="sazhéns"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sebezh">
+		<match value="sebézh"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#shuba">
+		<match value="shúba"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#starosta">
+		<match value="stárosta"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#telega">
+		<match value="teléga"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tsarevich">
+		<match value="tsarévich">
+			<value value="tsarévichi"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tyatya">
+		<match value="tyátya"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tzarevna">
+		<match value="tzarévna"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ukaz">
+		<match value="úkaz"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vanya">
+		<match value="ványa"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vertodub">
+		<match value="vertodúb"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vertogor">
+		<match value="vertogór"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vóron-voronovich">
+		<match value="vóron vóronovich"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#zamoryshek">
+		<match value="zamorýshek"/>
+	</search-key-group>
+</search-key-map>
