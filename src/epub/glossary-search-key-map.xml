@@ -124,8 +124,8 @@
 	<search-key-group href="text/glossary.xhtml#tyatya">
 		<match value="tyátya"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#tzarevna">
-		<match value="tzarévna"/>
+	<search-key-group href="text/glossary.xhtml#tsarevna">
+		<match value="tsarévna"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ukaz">
 		<match value="úkaz"/>
