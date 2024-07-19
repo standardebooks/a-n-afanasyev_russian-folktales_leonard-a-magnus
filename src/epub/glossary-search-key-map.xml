@@ -105,7 +105,7 @@
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sebezh">
-		<match value="sebézh"/>
+		<match value="sébezh"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#shuba">
 		<match value="shúba"/>
