@@ -42,3 +42,14 @@ p span.i1{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+/* Inscription from "The Tale of Ivan Tsarevich" */
+#the-tale-of-ivan-tsarevich-the-bird-of-light-and-the-grey-wolf blockquote{
+	text-align: center;
+}
+
+/* Inscription from "The Language of the Birds" */
+#the-language-of-the-birds blockquote{
+	font-variant: small-caps;
+	text-align: center;
+}
