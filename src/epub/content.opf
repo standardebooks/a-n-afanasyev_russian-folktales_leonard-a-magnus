@@ -79,13 +79,93 @@
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="glossary-search-key-map.xml" id="glossary-search-key-map.xml" media-type="application/vnd.epub.search-key-map+xml" properties="glossary search-key-map"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-cure-for-story-telling.xhtml" id="a-cure-for-story-telling.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-story-of-saint-nicholas.xhtml" id="a-story-of-saint-nicholas.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-tale-of-the-dead-1.xhtml" id="a-tale-of-the-dead-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-tale-of-the-dead-2.xhtml" id="a-tale-of-the-dead-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-tale-of-the-dead-3.xhtml" id="a-tale-of-the-dead-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/alyosha-popovich.xhtml" id="alyosha-popovich.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/at-the-behest-of-the-pike.xhtml" id="at-the-behest-of-the-pike.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/baba-yaga-and-zamoryshek.xhtml" id="baba-yaga-and-zamoryshek.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/beer-and-bread.xhtml" id="beer-and-bread.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/by-command-of-the-prince-daniel.xhtml" id="by-command-of-the-prince-daniel.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/christ-and-folksongs.xhtml" id="christ-and-folksongs.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/christ-and-the-geese.xhtml" id="christ-and-the-geese.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chufil-filyushka.xhtml" id="chufil-filyushka.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/danilo-the-unfortunate.xhtml" id="danilo-the-unfortunate.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/donotknow.xhtml" id="donotknow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/egori-the-brave-and-the-gipsy.xhtml" id="egori-the-brave-and-the-gipsy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/elijah-the-prophet-and-st-nicholas.xhtml" id="elijah-the-prophet-and-st-nicholas.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/glossary.xhtml" id="glossary.xhtml" media-type="application/xhtml+xml" properties="glossary"/>
+		<item href="text/gods-blessing-compasses-all-things.xhtml" id="gods-blessing-compasses-all-things.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ilya-muromets-and-svyatogor-the-knight.xhtml" id="ilya-muromets-and-svyatogor-the-knight.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ivashko-and-the-wise-woman.xhtml" id="ivashko-and-the-wise-woman.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mark-the-rich.xhtml" id="mark-the-rich.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/marya-moryevna.xhtml" id="marya-moryevna.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/never-wash.xhtml" id="never-wash.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/nikita-the-tanner.xhtml" id="nikita-the-tanner.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/notes.xhtml" id="notes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prince-evstafi.xhtml" id="prince-evstafi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/pronunciation.xhtml" id="pronunciation.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/shemyak-the-judge.xhtml" id="shemyak-the-judge.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/sorrow.xhtml" id="sorrow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-animals-in-the-pit.xhtml" id="the-animals-in-the-pit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-animals-winter-quarters.xhtml" id="the-animals-winter-quarters.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bear-the-dog-and-the-cat.xhtml" id="the-bear-the-dog-and-the-cat.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-brother-of-christ.xhtml" id="the-brother-of-christ.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-devil-in-the-dough-pan.xhtml" id="the-devil-in-the-dough-pan.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dream.xhtml" id="the-dream.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dun-cow.xhtml" id="the-dun-cow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-enchanted-tsarevich.xhtml" id="the-enchanted-tsarevich.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-feast-of-the-dead.xhtml" id="the-feast-of-the-dead.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-foundling-prince.xhtml" id="the-foundling-prince.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-journey-to-jerusalem.xhtml" id="the-journey-to-jerusalem.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-language-of-the-birds.xhtml" id="the-language-of-the-birds.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-legless-knight-and-the-blind-knight.xhtml" id="the-legless-knight-and-the-blind-knight.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-midnight-dance.xhtml" id="the-midnight-dance.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-miraculous-hen.xhtml" id="the-miraculous-hen.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-poor-widow.xhtml" id="the-poor-widow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-potter.xhtml" id="the-potter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-priest-with-the-envious-eyes.xhtml" id="the-priest-with-the-envious-eyes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-princess-to-be-kissed-at-a-charge.xhtml" id="the-princess-to-be-kissed-at-a-charge.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-princess-who-would-not-smile.xhtml" id="the-princess-who-would-not-smile.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-quarrelsome-wife.xhtml" id="the-quarrelsome-wife.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-realm-of-stone.xhtml" id="the-realm-of-stone.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-realms-of-copper-silver-and-gold.xhtml" id="the-realms-of-copper-silver-and-gold.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sea-tsar-and-vasilisa-the-wise.xhtml" id="the-sea-tsar-and-vasilisa-the-wise.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-singing-tree-and-the-speaking-bird.xhtml" id="the-singing-tree-and-the-speaking-bird.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-smith-and-the-devil.xhtml" id="the-smith-and-the-devil.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-snake-princess.xhtml" id="the-snake-princess.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-soldier-and-death.xhtml" id="the-soldier-and-death.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-soldier-and-the-tsar-in-the-forest.xhtml" id="the-soldier-and-the-tsar-in-the-forest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sorry-drunkard.xhtml" id="the-sorry-drunkard.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-story-of-the-brave-and-doughty-knight-ilya-muromets-and-the-nightingale-robber.xhtml" id="the-story-of-the-brave-and-doughty-knight-ilya-muromets-and-the-nightingale-robber.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-story-of-tsar-angey-and-how-he-suffered-for-pride.xhtml" id="the-story-of-tsar-angey-and-how-he-suffered-for-pride.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sun-and-how-it-was-made-by-divine-will.xhtml" id="the-sun-and-how-it-was-made-by-divine-will.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sun-the-moon-and-crow-crowson.xhtml" id="the-sun-the-moon-and-crow-crowson.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-alexander-of-macedon.xhtml" id="the-tale-of-alexander-of-macedon.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-ivan-tsarevich-the-bird-of-light-and-the-grey-wolf.xhtml" id="the-tale-of-ivan-tsarevich-the-bird-of-light-and-the-grey-wolf.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tale-of-the-silver-saucer-and-the-crystal-apple.xhtml" id="the-tale-of-the-silver-saucer-and-the-crystal-apple.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-thoughtless-word.xhtml" id="the-thoughtless-word.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tsarevich-and-dyadka.xhtml" id="the-tsarevich-and-dyadka.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-tsaritsa-harpist.xhtml" id="the-tsaritsa-harpist.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-witch-and-the-sister-of-the-sun.xhtml" id="the-witch-and-the-sister-of-the-sun.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wolf-and-the-tailor.xhtml" id="the-wolf-and-the-tailor.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-wood-sprite.xhtml" id="the-wood-sprite.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/vasilisa-popovna.xhtml" id="vasilisa-popovna.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/vasilisa-the-fair.xhtml" id="vasilisa-the-fair.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/vazuza-and-volga.xhtml" id="vazuza-and-volga.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
