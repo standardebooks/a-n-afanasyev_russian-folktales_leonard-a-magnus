@@ -23,8 +23,8 @@
 			<value value="boyár"/>
 		</match>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#boyarynyi">
-		<match value="boyárynyi"/>
+	<search-key-group href="text/glossary.xhtml#boyaryni">
+		<match value="boyáryni"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#chudo-yuda">
 		<match value="chúdo-yúda"/>
