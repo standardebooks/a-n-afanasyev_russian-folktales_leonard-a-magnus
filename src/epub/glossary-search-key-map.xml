@@ -63,7 +63,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#korolevich">
 		<match value="Korolévich">
-			<value valur="korolévichi"/>
+			<value value="korolévichi"/>
 		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#korolevna">
