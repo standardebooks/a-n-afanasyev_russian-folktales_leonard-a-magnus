@@ -34,9 +34,12 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of Russian folktales from A. N. Afanasyev, translated and edited by Leonard A. Magnus.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Russian Folktales&lt;/i&gt; (also translated as &lt;i&gt;Russian Fairy Tales&lt;/i&gt;) is a collection of folktales in Russian language, collected and edited in the 19th century by folklorist &lt;a href="https://standardebooks.org/ebooks/a-n-afanasyev"&gt;Aleksandr Nikolaevich Afanasyev&lt;/a&gt;. Despite the title, the stories present here are not just Russian, but represent folk and fairy tales told by people from east-slavic speaking regions, mainly Belarus, Russia and Ukraine.&lt;/p&gt;
+			&lt;p&gt;The stories in this collection represent both pre-christian elements in the form of spirits and pagan entities and christian ideas and believes, in the form of saints, angels and apostles, who all appear as characters in some stories. References to God and lithurgical practices are abundant in the book.&lt;/p&gt;
+			&lt;p&gt;Although traditional tales like these don’t form an uniform and consistent corpus, some stock characters appear in several stories, such as &lt;i&gt;Koshchéy the Deathless&lt;/i&gt;, &lt;i&gt;Iván Tsárevich&lt;/i&gt; and &lt;i&gt;Bába Yága&lt;/i&gt;&lt;/p&gt;
+			&lt;p&gt;This edition is based on the 1916 publication of Leonard A. Magnus collection and translation of some of the stories from the original book, who is significantly larger, with over 500 stories total.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/62509</dc:source>
