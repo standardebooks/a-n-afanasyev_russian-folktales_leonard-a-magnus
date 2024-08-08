@@ -81,3 +81,8 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+/* Remove marker from <ul> */
+ul{
+	list-style-type: none;
+}
