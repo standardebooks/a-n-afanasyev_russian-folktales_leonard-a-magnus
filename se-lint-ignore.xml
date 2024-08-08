@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="a-cure-for-story-telling.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>No semantics are apparently needed.</reason>
+		</ignore>
+	</file>
+	<file path="at-the-behest-of-the-pike.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>No semantics are apparently needed.</reason>
+		</ignore>
+	</file>
+	<file path="ivashko-and-the-wise-woman.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>No semantics are apparently needed.</reason>
+		</ignore>
+	</file>
+	<file path="the-sea-tsar-and-vasilisa-the-wise.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>No semantics are apparently needed.</reason>
+		</ignore>
+	</file>
+	<file path="vasilisa-the-fair.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>No semantics are apparently needed.</reason>
+		</ignore>
+	</file>
+	<file path="pronunciation.xhtml">
+		<ignore>
+			<code>y-029</code>
+			<reason>Italics are correct.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
