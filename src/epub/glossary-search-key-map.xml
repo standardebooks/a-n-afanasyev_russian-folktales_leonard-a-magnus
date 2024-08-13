@@ -7,7 +7,7 @@
 		<match value="bába yagá"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#babushka">
-		<match value="bábushka"/>
+		<match value="babushka"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#barkhat">
 		<match value="bárkhat"/>
