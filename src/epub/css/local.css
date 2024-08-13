@@ -86,3 +86,8 @@ section[epub|type~="dedication"] > *{
 ul{
 	list-style-type: none;
 }
+
+#notes li + li{
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+}
