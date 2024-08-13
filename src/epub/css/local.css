@@ -1,4 +1,5 @@
 @charset "utf-8";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Glossary CSS */
@@ -93,5 +94,9 @@ ul{
 }
 
 dfn{
+	font-style: italic;
+}
+
+body [xml|lang]{
 	font-style: italic;
 }
