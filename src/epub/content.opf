@@ -61,6 +61,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2006046631</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Viktor Vasnetsov</dc:contributor>
 		<meta property="file-as" refines="#artist">Vasnetsov, Viktor</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Viktor Mikhaylovich Vasnetsov</meta>
