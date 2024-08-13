@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="vasilisa-the-fair.xhtml">
-		<ignore>
-			<code>s-046</code>
-			<reason>No semantics are apparently needed.</reason>
-		</ignore>
-	</file>
 	<file path="pronunciation.xhtml">
 		<ignore>
-			<code>y-029</code>
+			<code>y-032</code>
 			<reason>Italics are correct.</reason>
 		</ignore>
 	</file>
