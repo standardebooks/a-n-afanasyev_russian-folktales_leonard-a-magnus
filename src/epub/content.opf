@@ -34,6 +34,7 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Russian Folktales&lt;/i&gt; (also translated as &lt;i&gt;Russian Fairy Tales&lt;/i&gt;) is a collection of folktales in the Russian language, collected and edited in the 19th century by folklorist &lt;a href="https://standardebooks.org/ebooks/a-n-afanasyev"&gt;A. N. Afanasyev&lt;/a&gt;. Despite the title, these stories are not just Russian ones, but are also folk and fairy tales told by people from many eastern Slavic-speaking regions like Belarus and Ukraine.&lt;/p&gt;
