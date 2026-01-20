@@ -46,7 +46,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/62509</dc:source>
 		<dc:source>https://archive.org/details/russianfolktales00afan_0</dc:source>
-		<meta property="se:word-count">102427</meta>
+		<meta property="se:word-count">101925</meta>
 		<meta property="se:reading-ease.flesch">79.3</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Russian_Fairy_Tales</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/a-n-afanasyev_russian-folktales_leonard-a-magnus</meta>
