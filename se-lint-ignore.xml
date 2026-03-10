@@ -2,6 +2,10 @@
 <se-lint-ignore>
 	<file path="pronunciation.xhtml">
 		<ignore code="y-032">
+			<line>26</line>
+			<line>29</line>
+			<line>35</line>
+			<line>41</line>
 			<reason>Italics are correct.</reason>
 		</ignore>
 	</file>
