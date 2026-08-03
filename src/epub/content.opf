@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/a-n-afanasyev/russian-folktales/leonard-a-magnus</dc:identifier>
 		<dc:date>2024-08-18T03:14:13Z</dc:date>
@@ -37,13 +37,13 @@
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of Russian folktales compiled by A. N. Afanasyev, translated and edited by Leonard A. Magnus.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Russian Folktales&lt;/i&gt; (also translated as &lt;i&gt;Russian Fairy Tales&lt;/i&gt;) is a collection of folktales in the Russian language, collected and edited in the 19th century by folklorist &lt;a href="https://standardebooks.org/ebooks/a-n-afanasyev"&gt;A. N. Afanasyev&lt;/a&gt;. Despite the title, these stories are not just Russian ones, but are also folk and fairy tales told by people from many eastern Slavic-speaking regions like Belarus and Ukraine.&lt;/p&gt;
 			&lt;p&gt;The stories in this collection focus both on pre-Christian elements like spirits and pagan entities, and Christian elements like saints, angels, and apostles, who appear as characters in some of the stories. References to God and liturgical practices abound.&lt;/p&gt;
 			&lt;p&gt;Although traditional tales like these don’t form a uniform and consistent corpus, some stock characters appear in several stories, like Koshchéy the Deathless, Iván Tsárevich, and Bába Yága.&lt;/p&gt;
 			&lt;p&gt;This edition is based on the 1916 translation by Leonard A. Magnus, who curated a selection of stories from Afanasyev’s original Russian edition. The Russian edition is much larger, with over five hundred stories in total.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/62509</dc:source>
 		<dc:source>https://archive.org/details/russianfolktales00afan_0</dc:source>
